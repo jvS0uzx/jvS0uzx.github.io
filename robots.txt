@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://jvs0uzx.github.io/sitemap.xml
